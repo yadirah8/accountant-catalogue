@@ -1,5 +1,5 @@
-# accountant-catalogue-
-# Data Entry Project: Professional Contacts Dataset
+# accountant-catalogue
+# Data Entry Project: Accountants Contacts Dataset
 
 ## Objective
 This project demonstrates my ability to manually extract, clean, and organize data from an image into a structured spreadsheet. The dataset includes professional contact information, such as names, titles, companies, addresses, and email addresses.
